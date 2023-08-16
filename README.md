@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagarajarunprasath (Arun)
-- 👀 I’m interested in learning python and Kubernetes
-- 🌱 I’m currently learning Python and Kubernetes
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on any base python based projects and automating exsiting manual work
 - 📫 How to reach me - arunprasathnagaraj@outlook.com
 
